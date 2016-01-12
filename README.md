@@ -7,3 +7,6 @@ The project will be housed in custom casing using the following components:
  - 2.8" TFT Touchscreen for RPi
  - Adafruit Weatherproof Metal On-Off Switch with LED (which will act as power indicator for the board)
  - GlobalSat BU-353-S3 USB GPS Reciever (USB Port)
+
+---
+                                                © SportTrax 2016
