@@ -9,4 +9,4 @@ The project will be housed in custom casing using the following components:
  - GlobalSat BU-353-S3 USB GPS Reciever (USB Port)
 
 ---
-                                                © SportTrax 2016
+> © Copyright Sport Trax 2016.
