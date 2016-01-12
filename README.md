@@ -9,5 +9,5 @@ The project will be housed in custom casing using the following components:
  - GlobalSat BU-353-S3 USB GPS Reciever (USB Port)
 
 ---
-                                          © Copyright Sport Trax 2016. 
+                                           © Copyright Sport Trax 2015-16. 
 > The RPi GPS Logger uses Python-based modules and libraries which are not affiliated with the owners nor content creators of such libraries.
