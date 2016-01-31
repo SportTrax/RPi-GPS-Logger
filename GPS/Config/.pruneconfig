@@ -1,0 +1,19 @@
+#GpsPrune config file
+#Tue Jan 26 23:47:06 UTC 2016
+prune.altitudetolerance=0
+prune.showmap=1
+prune.trackdirectory=/home/pi/Desktop/GPS/Logs
+prune.heightexaggeration=100
+prune.exiftoolpath=exiftool
+prune.lastimportfileformat=-1
+prune.gnuplotpath=gnuplot
+prune.terraingridsize=50
+prune.gpsformat=garmin
+prune.diskcache=/home/pi/Desktop/GPS/Maps
+prune.recentfiles=6;r/home/pi/Desktop/GPS/Logs/260116-233642.000-gprmc-raw-log.txt;r/home/pi/Desktop/GPS/Logs/260116-233642.000-simple-log.txt;;;;
+prune.kmzimagewidth=240
+prune.unitsetkey=unitset.kilometres
+prune.autosavesettings=1
+prune.gpsdevice=usb\:
+prune.povrayfont=crystal.ttf
+prune.gpsbabelpath=gpsbabel

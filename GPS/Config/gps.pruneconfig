@@ -1,0 +1,18 @@
+#GpsPrune config file
+#Sun Jan 31 18:53:12 UTC 2016
+prune.altitudetolerance=0
+prune.showmap=1
+prune.heightexaggeration=100
+prune.exiftoolpath=exiftool
+prune.lastimportfileformat=-1
+prune.gnuplotpath=gnuplot
+prune.terraingridsize=50
+prune.gpsformat=garmin
+prune.diskcache=/home/pi/Desktop/GPS/Maps
+prune.recentfiles=6;;;;;;
+prune.kmzimagewidth=240
+prune.unitsetkey=unitset.kilometres
+prune.autosavesettings=1
+prune.gpsdevice=usb\:
+prune.povrayfont=crystal.ttf
+prune.gpsbabelpath=gpsbabel
