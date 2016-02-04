@@ -1,7 +1,7 @@
 # RPi-GPS-Logger
 A Raspberry Pi-based GPS logger used for running; cycling and/or other leisure activities using the Python library as well as other dependencies.
 ---
-The project will be housed in custom casing using the following components:
+The project will be housed in custom acrylic (see designs in respo) casing using the following components:
  - Powered by Raspberry Pi 2 (running Jessie), programmed using Python
  - Adafruit Powerboost 500c Lipo Charger
  - 2.8" TFT Touchscreen for RPi
