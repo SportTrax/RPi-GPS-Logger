@@ -12,6 +12,7 @@ The project will be housed in custom acrylic (see designs in respo) casing using
  - Maglev 12V Fan
  - Adafruit Quarter-size Perma-Proto Board
  - Vislow WiFi Module
+ - Clear Perspex for Casing
 
 ---
                                            © Copyright Sport Trax 2015-16. 
